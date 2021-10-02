@@ -1,13 +1,9 @@
-## Micronaut 3.0.1 Documentation
+# MRC-IS API to CSV example
 
-- [User Guide](https://docs.micronaut.io/3.0.1/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.0.1/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.0.1/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
+This example is based on Micronaut, Kotlin and runs on the Java JVM. It is a CLI application which can be natively compiled into a binary
 
----
+## Run
 
-## Feature http-client documentation
+You can run the example with ` ./gradlew run --args="-a your-api-key"`.
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 

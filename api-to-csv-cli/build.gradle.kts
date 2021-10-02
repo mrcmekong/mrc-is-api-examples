@@ -24,6 +24,10 @@ micronaut {
 }
 
 dependencies {
+
+    implementation("com.github.doyaaaaaken:kotlin-csv-jvm:1.1.0")
+
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     kapt("info.picocli:picocli-codegen")
     kapt("io.micronaut:micronaut-http-validation")
     implementation("info.picocli:picocli")
